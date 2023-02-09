@@ -3,3 +3,5 @@ php artisan import:teams (I've changed the json score values just for the purpos
 php artisan test --filter testSwitch (A scenario tested to switch players)
 
 /api/players/teams/3 for api call
+
+
